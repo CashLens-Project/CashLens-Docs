@@ -2,9 +2,9 @@
 
 > Repositório da disciplina **Startups de Engenharia de Software** — documentação do projeto, MVP e materiais de apoio.
 
-## 📌 Identificação Acadêmica
+## 📌 Diciplina
 
-* **Disciplina:** Startups de Engenharia de Software
+* Startups de Engenharia de Software
 
 
 ## 👥 Integrantes
