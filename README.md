@@ -1,6 +1,6 @@
 # CashLens — Gestão de Vendas, Lucro e Despesas
 
-> Repositório da disciplina **Startups de Engenharia de Software** — documentação do projeto, MVP e materiais de apoio.
+> Repositório da disciplina **Startups e Qualidade de Software** — documentação do projeto, MVP e materiais de apoio.
 
 ## 📌 Diciplina
 
