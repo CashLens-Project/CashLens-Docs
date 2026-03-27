@@ -1,24 +1,13 @@
-# CashLens — Gestão de Vendas, Lucro e Despesas
+# Documentacao do CashLens
 
-> Repositório da disciplina **Startups e Qualidade de Software** — documentação do projeto, MVP e materiais de apoio.
+Esta pasta centraliza os documentos principais do projeto em formato PDF, organizados por artefato.
 
-## 📌 Diciplina
+## Estrutura
 
-* Startups de Engenharia de Software
+- `documento-visao/`: versao em PDF do Documento de Visao do Sistema.
+- `requisitos-software/`: versao em PDF do Documento de Requisitos de Software.
 
+## Documentos Disponiveis
 
-## 👥 Integrantes
-
-* João Marcos Azevedo Cruz
-* João Pedro Tavares Teixeira
-* João Victor Martins Albernaz
-* Marcos André Barros Meneses
-
-## 🧭 Visão Geral do Projeto
-
-SaaS que consolida dados de **vendas, custos, despesas e recebíveis** (bancos/PSPs, ERP/loja virtual e planilhas) para gerar **timeline de caixa (realizado × projetado)**, **DRE simplificada**, **waterfall de lucro**, **margem por produto/categoria/loja**, **painel de anomalias** e **simulações “e se…”** com explicações dos principais fatores e **ações diretas** (reclassificar, conciliar, exportar).
-
-## 📚 Documentação
-
-* **Business Model Canvas**
-* **Plano de Negócio** 
+- [Documento de Visao do Sistema](./documento-visao/documento-visao.pdf)
+- [Documento de Requisitos de Software](./requisitos-software/requisitos-software.pdf)
