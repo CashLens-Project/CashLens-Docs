@@ -6,8 +6,10 @@ Esta pasta centraliza os documentos principais do projeto em formato PDF, organi
 
 - `documento-visao/`: versao em PDF do Documento de Visao do Sistema.
 - `requisitos-software/`: versao em PDF do Documento de Requisitos de Software.
+- `casos-de-uso/`: versao em PDF do Documento de Casos de Uso.
 
 ## Documentos Disponiveis
 
 - [Documento de Visao do Sistema](./documento-visao/documento-visao.pdf)
 - [Documento de Requisitos de Software](./requisitos-software/requisitos-software.pdf)
+- [Documento de Casos de uso](./casos-de-uso/casos-de-uso.pdf)
