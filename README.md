@@ -10,6 +10,7 @@ Esta pasta centraliza os principais documentos do projeto em formato PDF, organi
 - `documentacao-arquitetura/`: versão em PDF da Documentação de Arquitetura do Sistema.
 - `documentacao-interfaces-e-prototipacao/`: versões em PDF da Documentação de Interfaces e Prototipação, do Design System e do protótipo completo.
 - `historia-de-usuario/`: versão em PDF da Documentação de Hitórias de usuário.
+- `cronograma-do-projeto/`: versão em PDF do cronograma geral do projeto.
 
 ## Documentos disponíveis
 
@@ -21,4 +22,5 @@ Esta pasta centraliza os principais documentos do projeto em formato PDF, organi
 - [Design System](./documentacao-interfaces-e-prototipacao/design-system.pdf)
 - [Protótipo completo em PDF](./documentacao-interfaces-e-prototipacao/cashlens-prototipo-completo.pdf)
 - [Histórias de usuário](./historia-de-usuario/historia-de-usuario.pdf)
+- [Cronograma do projeto](./cronograma-do-projeto/cronograma-do-projeto.pdf)
 - [Protótipo navegável no Figma](https://www.figma.com/proto/X6aT2JJ6hROIcM29ZWevhG/CashLens?node-id=1-2&starting-point-node-id=1%3A2): permite visualizar de forma interativa o fluxo das telas, simulando a navegação como se fosse um site.
